@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pranjal-nikhare
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning DSA
