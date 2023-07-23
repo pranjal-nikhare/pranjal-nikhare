@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pranjal-nikhare
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning DSA and Full Stack Web development
+- 🌱 I’m currently learning Data Structures & Algorithms and Full Stack Web development
